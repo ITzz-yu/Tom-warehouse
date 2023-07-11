@@ -1,0 +1,4 @@
+JDK	——	Java Development Kit		——	java开发工具包（abbr.java缩写）
+JRE	—— 	Java Runtime Environment	——	java运行时环境
+JVM	——	Java Virtual Machine		——	Java虚拟机
+
