@@ -1,0 +1,167 @@
+									==**Java英语笔记**==
+
+
+
+### **day_01**
+
+JDK	——	Java Development Kit		——	java开发工具包（abbr.java缩写）
+		JRE	—— 	Java Runtime Environment	——	java运行时环境
+		JVM	——	Java Virtual Machine		——	Java虚拟机
+
+download	——	vt.(动词)		——	[计]下载
+System		——	n.（名词）		——	制度，系统；
+out		——	adj.(形容词)		——	外面的，出去；
+println		——	n.(名词)			——	换行打印（Java语言中的命令）
+main		——	n.(名词)			——	主方法(每个类都必须要有一个main方法充当接口，每个类有且只有一个main方法)
+path		——	n.（名词）		——	道路，小路；轨道；路径；（java中大多指的是路径）
+JAVA_HOME	——	无			——	JDK的安装目录（特别注意：不是JDK的bin目录），例如：D:Download\JDK1.8
+void		——	adj.（形容词）		——	空的，无效的；（一般为类和方法的返回值类型）
+String		——	n.（名词）		——	一串，字符串；（Java语言中多为字符串，基本数据类型）
+args		——	n.(名词)			——	[计算机]参数；(多为main方法的形参）
+class		——	n.(名词)			——	阶级，班级，种类，类；（Java语言中多为 类）
+bin		——	n.(名词)			——	容器，二进制( binary 的缩写,在安装目录中多为存放可执行文件的目录）
+src		——	无			——	源代码，源程序，这里代表source code(源码)缩写
+
+bit	——	n.(名词)	——	[计]比特（二进制计数单位）
+
+byte	——	n.（名词）	字节，8位元组（1TB = 1024MB、1MB = 1024KB、1KB = 1024B（byte）、1B=8bit）
+
+**拓展**
+
+command	——	vi.（不及物动词）	——	命令、控制
+
+compile		——	vt.(动词)				 ——	编译、编辑
+
+language	——	n.(名词)					——	语言
+
+lang			——	abbr.						——	语言（language）
+
+development	——	n.(名词)				——	发展，开发
+
+kit				——	n.(名词)					——	工具箱
+
+machine		——	n.(名词)				——	机械，机器
+
+JavaSE: Java标准版，Java Standard Edition
+
+JavaEE：Java企业版，Java EnterPrise Edition
+
+JavaME:  Java小型版，Java Micro Edition
+
+GC：垃圾收集机制（Garbage Collection）
+
+
+
+### **^day_02^**
+
+byte		——		n.			——		字节（1字节 = 8位元组）
+
+short		——		adj.		——		短的（Java语言中为短整型，占2个字节）
+
+int			——		abbr.		——		整数（Java语言中为基本数据类型中的整数类型，占4个字节）
+
+long		——		adj.			——		长的，过长（(Java语言中为基本数据类型中的长整型，占8个字节）
+
+float		——		无			 ——		单精度浮点数
+
+double	——		无			 ——		双精度浮点数
+
+char		——		无		  	——		单个字符类型
+
+boolean	——		无			——		布尔类型（只有true和false，即0和1）
+
+unicode	——		n.			 ——		采用双字节对字符进行编码，统一的字符编码标准
+
+ASCLL	 ——		abbr.		——		美国信息交换标准码（American Standard Code for Information Interchange）
+
+true		 ——		adj.			——		真实的，正确的（真值true代表1）
+
+false		——		adj.			——		错误的（假值false代表0）
+
+**拓展**
+
+age		——		n.				——		年龄
+
+name	 ——		n.				——		名称、名字、姓名
+
+number  ——		n.				——		数量
+
+assign	——		vt.				——		分配，指派，[计] [数] 赋值
+
+logic		——		adj.			 ——		逻辑的
+
+arithmetic  ——	 n.				——		算术、算法
+
+oparetor	——	无				——		[计] 操作符
+
+relational	——	adj.			——		相关的
+
+relational oparetor :	关系运算符
+
+relational database :	关系型数据库
+
+relational expression : 关系型表达数据库
+
+variable 	—— 	adj. 		——		变量的、可变的、易变的，多变的
+
+sum			——	n.			——		金额，总数
+
+const 		——	 n. 			——		常量、总数
+
+constant	——	n.				——		[数]常数，恒量
+
+initialize	——	vt.			——		初始化
+
+**day_03**
+
+if			——		conj.		——		（表条件）如果、即使、是否，（表）
+
+else		——		adv.		——		其他、否则、另外
+
+switch	——		n.			——		开关、转换
+
+case		——		n.			——		情况
+
+default	——		n.			——		缺席、缺乏、系统默认值
+
+scanner	——		n.			——		[计] 扫描仪、扫描器
+
+next		——		adj.		  ——		下一个的
+
+import	——		vt.			——		导入
+
+util			——		adj.		——		实用的、通用的（Java中多代表工具类或工具包）
+
+in			  ——		无			——		在里面的、输入
+
+count		——		vi.			——		计数
+
+year		——		n.				——		年
+
+mouth	——		n.			 ——		月
+
+day		——		n.			——		一天、时期
+
+date		——		n.		——		日期
+
+**拓展**
+
+length		——		n.		——		长度、长
+
+height		——		n.		——		高度、高地、身高
+
+weight		——		n.		——		重量、重力
+
+radius		——		n.		——		半径
+
+area			——		n.		——		区域、地区、面积、范围
+
+soure		——		n.		——		分数
+
+week		——		n.		——		周、星期
+
+hour		——		n.		——		小时
+
+minute	——		n.		——		分数
+
+second		——		n.		——		秒、第二名
